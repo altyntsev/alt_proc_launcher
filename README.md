@@ -1,1 +1,3 @@
-# alt_proc_launcher
+alt_processing launcher
+
+[Docs](https://altyntsev.github.io/)
